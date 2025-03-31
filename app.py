@@ -31,7 +31,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Title and introduction
-st.title("🦴 Osteoporosis Gene Mechanism Analysis")
+st.title("🦴 Osteoporosis risk prediction")
 st.markdown("""
     This tool uses transcriptome data to predict osteoporosis risk and provides mechanistic insights 
     using SHAP (SHapley Additive exPlanations) visualizations. Adjust gene expression levels in the sidebar 
